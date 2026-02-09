@@ -1,0 +1,10 @@
+camelot-py
+pdfplumber
+pymupdf
+pillow
+pandas
+openpyxl
+easyocr
+transformers
+torch
+python-docx

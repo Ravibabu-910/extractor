@@ -1,0 +1,11 @@
+[project]
+name = "extractor-mvp"
+version = "0.1.0"
+description = "MVP for chart/table/text extraction to JSON and XLSX."
+requires-python = ">=3.9"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
